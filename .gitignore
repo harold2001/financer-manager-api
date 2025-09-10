@@ -1,0 +1,52 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+*.manifest
+*.spec
+
+# ---- Virtual Environment ----
+venv/
+.env
+.env.bak
+.venv/
+ENV/
+env/
+
+# ---- macOS ----
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# ---- Logs & Caches ----
+*.log
+*.sqlite3
+*.db
+*.pid
+*.seed
+*.bak
+*.swp
+*.swo
+*.tmp
+
+# ---- IDE & Editors ----
+.vscode/
+.idea/
+*.iml
+
+# ---- Firebase Credentials ----
+serviceAccountKey.json
+
+# ---- Node (if frontend with React is inside this repo) ----
+node_modules/
+npm-debug.log
+yarn-error.log
+.pnp/
+.pnp.js
