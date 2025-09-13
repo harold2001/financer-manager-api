@@ -6,7 +6,7 @@ A comprehensive REST API for managing personal finances built with FastAPI, Fire
 
 ## Software Demo Video
 
-(Video will be added here)
+[Demo Video](https://www.youtube.com/watch?v=6BZipoWggII)
 
 ## Development Environment
 
